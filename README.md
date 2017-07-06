@@ -5,6 +5,6 @@
 ### 使用方式
   在html中引入js代码：<script src="rid.js"></script>
   
-  rid()  --->  输出长度为7的字符串随机数  
-  rid(10) --->  输出长度为10的字符串随机数
+  randomId.rid()  --->  输出长度为7的字符串随机数  
+  randomId.rid(10) --->  输出长度为10的字符串随机数
 
